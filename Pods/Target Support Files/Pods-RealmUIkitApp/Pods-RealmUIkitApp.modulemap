@@ -1,0 +1,6 @@
+framework module Pods_RealmUIkitApp {
+  umbrella header "Pods-RealmUIkitApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
