@@ -15,3 +15,15 @@ class DataManager {
         group = realm.objects(Group.self)
     }
 }
+var computed: Int {
+    get{
+        return 4
+    }
+    set{
+        
+    }
+}
+func set() {
+    computed = 10
+
+}
